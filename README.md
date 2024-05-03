@@ -4,6 +4,7 @@
 ## What it is 
 
 Board that adds an ethernet port to the Raspberry Pi Zero based on the Microchip's ENC28J60 that integrates the MAC and a 10Base-T PHY with an SPI interface. 
+Designed in 2016 and just open sourcing it in 2024. 
 
 ![top](/docs/top.jpg)
 ![bottom](/docs/bottom.jpg)
@@ -12,7 +13,7 @@ Board that adds an ethernet port to the Raspberry Pi Zero based on the Microchip
 
 ## EDA
 
-Designed in DipTrace 4.3
+Designed in DipTrace
 
 ## License
 
